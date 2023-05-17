@@ -1,6 +1,10 @@
 # todo_app
 
-A new Flutter project.
+A new Flutter project using sqflite with some features such as 
+
+Add a task with expected date
+Add / Remove specific task to/from Done section
+Add / Remove specific task to/from Archive section
 
 ## Getting Started
 
