@@ -1,10 +1,6 @@
 # todo_app
 
-A new Flutter project using sqflite with some features such as 
-
-Add a task with expected date
-Add / Remove specific task to/from Done section
-Add / Remove specific task to/from Archive section
+This Flutter project is a todo app that uses sqflite for local data storage. The app allows users to add tasks with an expected due date and categorize them as done or archived.Users can easily add or remove tasks from the done section or archive, helping them to stay organized and manage their tasks effectively.
 
 ## Getting Started
 
